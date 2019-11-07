@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sematec Varand Project</string>
+    <string name="dialup">Dial Up</string>
+    <string name="profile">Profile</string>
+    <string name="camera">Camera</string>
+    <string name="search">Search</string>
+    <string name="enter_movie">Enter Movie...</string>
+</resources>
